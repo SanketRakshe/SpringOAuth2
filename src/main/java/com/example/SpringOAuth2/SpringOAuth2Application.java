@@ -8,7 +8,7 @@ public class SpringOAuth2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringOAuth2Application.class, args);
-		System.out.println("Started...");
+		//System.out.println("Started...");
 	}
 
 }
